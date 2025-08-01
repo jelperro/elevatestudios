@@ -191,7 +191,7 @@
         .hero h1 {
             font-size: 3.5rem;
             font-weight: 700;
-            margin-bottom: 1rem;
+            margin-bottom: 3rem;
             padding-top: 6rem;
             opacity: 0;
             animation: slideInUp 1s ease-out 0.3s forwards;
